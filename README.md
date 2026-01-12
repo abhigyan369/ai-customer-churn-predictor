@@ -1,4 +1,4 @@
-# Customer Churn Prediction App
+# Customer Churn Prediction App- https://ai-customer-churn-predictor.streamlit.app/
 
 An AI-powered web application to predict customer churn, visualize risks, and explain predictions using SHAP values.
 
